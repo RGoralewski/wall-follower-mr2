@@ -1,0 +1,11 @@
+/**:
+  ros__parameters:
+    pid:
+      kp: 0.5
+      ki: 0.0
+      kd: 0.07
+    min_acc: 1.0
+    max_acc: 1.0
+    min_speed_threshold: 0.1
+    speed_coeff: 2.0
+
